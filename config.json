@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperfpdate",
+        "uuid": 13222024,
+        "checksum": "gepat6"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
